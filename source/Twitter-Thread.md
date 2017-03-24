@@ -1,4 +1,4 @@
-# Twitter threads
+# Twitter thread
 List of usefull twitter threads for an iOS developer!
 
 ### iOS
