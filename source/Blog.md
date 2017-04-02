@@ -1,8 +1,9 @@
 # Blog
 List of Swift & iOS related blogs!
 
-- [crunchy-development](http://alisoftware.github.io)
-- [swifting.io](https://swifting.io)
-- [russ-bishop](http://www.russbishop.net)
-- [episteme-and-techne](http://austinzheng.com)
 - [airspeed-velocity](https://airspeedvelocity.net)
+- [apple-github-docs](https://github.com/riteshhgupta/swift/tree/master/docs)
+- [crunchy-development](http://alisoftware.github.io)
+- [episteme-and-techne](http://austinzheng.com)
+- [russ-bishop](http://www.russbishop.net)
+- [swifting.io](https://swifting.io)
