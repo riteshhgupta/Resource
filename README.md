@@ -5,7 +5,7 @@ List of iOS related development &amp; design links or articles:
 - [blog-list](source/Blog.md)
 - [design](source/Design.md)
 - [dependency-management](source/Dependency-Management.md)
-- [generic](source/Generic.md)
+- [everything-else](source/EverythingElse.md)
 - [iOS](source/iOS.md)
 - [react-native](source/React-Native.md)
 - [swift](source/Swift.md) 
