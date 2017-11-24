@@ -6,3 +6,6 @@ List of iOS related articles!
 
 ### ML
 - [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/)
+
+### Background file transfer
+- [Topology eye wear engineering blog](https://topologyeyewear.github.io/engineering-blog/2017/11/20/background_transfer/)
