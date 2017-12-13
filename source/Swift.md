@@ -12,3 +12,4 @@ List of Swift related articles!
 
 ### protocol
 - [swift associated types](http://www.russbishop.net/swift-associated-types)
+- [conditional conformances](https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md) ~ Apple
